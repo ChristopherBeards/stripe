@@ -29,6 +29,6 @@ npm start
 
 1.0.0
 
-### License
+### View Live
 
-This project is licensed under the MIT License
+https://whispering-lowlands-91826.herokuapp.com/
